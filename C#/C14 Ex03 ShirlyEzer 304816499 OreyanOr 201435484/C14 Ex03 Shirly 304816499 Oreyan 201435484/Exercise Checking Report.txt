@@ -1,0 +1,9 @@
+﻿==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 304816499 - Shirly Ezer
+Second Student Details: 201435484 - Oreyan Or
+Delivery Date.........: 11 - September - 2014
+Delivered In Delay....: 
+Delay Reason..........: 
+Comments..............: In feature 2 we used  WebCam_Capture.dll which exists in ...\C14 Ex03 ShirlyEzer 304816499 OreyanOr 201435484\WebCaptureDll
+========================End Exercise Checking Report========================

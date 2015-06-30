@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{9A2A6F52-FCCD-4110-AFB0-319225508792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageManagementSystem.ConsoleUI", "Ex03.GarageManagementSystem.ConsoleU\Ex03.GarageManagementSystem.ConsoleUI.csproj", "{CB5F03BD-32FE-4C2E-87FF-46796FE0F455}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51562DB0-A0CE-40F1-BEE4-B10E2E41F323}"
+	ProjectSection(SolutionItems) = preProject
+		B14 Ex03 Oreyan 201435484 Shirly 304816499.docx = B14 Ex03 Oreyan 201435484 Shirly 304816499.docx
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A2A6F52-FCCD-4110-AFB0-319225508792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A2A6F52-FCCD-4110-AFB0-319225508792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A2A6F52-FCCD-4110-AFB0-319225508792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A2A6F52-FCCD-4110-AFB0-319225508792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5F03BD-32FE-4C2E-87FF-46796FE0F455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5F03BD-32FE-4C2E-87FF-46796FE0F455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5F03BD-32FE-4C2E-87FF-46796FE0F455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5F03BD-32FE-4C2E-87FF-46796FE0F455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

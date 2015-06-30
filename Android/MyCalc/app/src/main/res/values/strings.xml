@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mul">*</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="divide">/</string>
+    <string name="modulo">%</string>
+</resources>

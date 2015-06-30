@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ToDoItemsHibernate:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToDoItemsHibernate_war</output-path>
+    <root id="archive" name="ToDoItemsHibernate_war.war">
+      <element id="artifact" artifact-name="ToDoItemsHibernate:war exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="directory" name="Resources">
+        <element id="dir-copy" path="$PROJECT_DIR$/web" />
+      </element>
+    </root>
+  </artifact>
+</component>

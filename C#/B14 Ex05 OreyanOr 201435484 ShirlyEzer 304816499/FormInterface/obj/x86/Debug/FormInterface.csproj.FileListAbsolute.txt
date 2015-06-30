@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\FormInterface\bin\Debug\FormInterface.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\FormInterface\bin\Debug\FormInterface.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\FormInterface\bin\Debug\B14_Ex02.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\FormInterface\bin\Debug\B14_Ex02.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\FormInterface\obj\x86\Debug\FormInterface.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\FormInterface\obj\x86\Debug\FormInterface.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\FormInterface\obj\x86\Debug\FormInterface.pdb

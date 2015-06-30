@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Favorite Links</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hitlink">Link to HIT</string>
+    <string name="googlelink">Link to Google</string>
+    <string name="youtubelink">Link to Youtube</string>
+</resources>

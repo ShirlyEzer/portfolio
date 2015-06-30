@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AppEngine ORM">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/appengine-java-sdk-1.9.19/appengine-java-sdk-1.9.19/lib/user/orm" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/appengine-java-sdk-1.9.19/appengine-java-sdk-1.9.19/lib/user/orm" recursive="false" />
+  </library>
+</component>

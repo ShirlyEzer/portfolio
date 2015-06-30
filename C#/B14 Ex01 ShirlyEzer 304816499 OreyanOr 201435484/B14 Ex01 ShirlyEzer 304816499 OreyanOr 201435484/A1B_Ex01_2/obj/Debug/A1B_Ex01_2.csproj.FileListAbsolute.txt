@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 1\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\A1B_Ex01_2\bin\Debug\A1B_Ex01_2.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 1\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\A1B_Ex01_2\bin\Debug\A1B_Ex01_2.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 1\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\A1B_Ex01_2\obj\Debug\A1B_Ex01_2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 1\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\A1B_Ex01_2\obj\Debug\A1B_Ex01_2.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 1\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\B14 Ex01 ShirlyEzer 304816499 OreyanOr 201435484\A1B_Ex01_2\obj\Debug\A1B_Ex01_2.pdb

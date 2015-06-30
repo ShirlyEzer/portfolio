@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\Logic\bin\Debug\B14_Ex02.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\Logic\bin\Debug\B14_Ex02.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\Logic\obj\Debug\B14_Ex02.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר ב\c#\תרגילי הגשה\תרגיל 5\New folder\B14 Ex05 OreyanOr 201435484 ShirlyEzer 304816499\Logic\obj\Debug\B14_Ex02.pdb

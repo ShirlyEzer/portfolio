@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">
+            com.mysql.jdbc.Driver
+        </property>
+        <property name="hibernate.connection.url">
+            jdbc:mysql://mysql95289-todomanager.j.layershift.co.uk:3306/todoitemsdb
+        </property>
+        <property name="hibernate.connection.username">todoitemsdb</property>
+        <property name="hibernate.connection.password">todoitemsdb</property>
+        <property name="show_sql">true</property>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <!-- Mapping files -->
+        <mapping class="il.ac.hit.model.User" resource="todoitems.xml"/>
+        <mapping class="il.ac.hit.model.ToDoItem" resource="users.xml"/>
+
+    </session-factory>
+</hibernate-configuration>

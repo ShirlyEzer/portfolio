@@ -1,0 +1,26 @@
+<%
+                        session = request.getSession();
+                        List<ToDoItem> list = (List<ToDoItem>)session.getAttribute("todoitems");
+                        for (int i = 0; i < list.size(); i++) {
+                    %>
+                    <div data-theme="a" data-role="collapsible" data-collapsed="true" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d-black" data-iconpos="left">
+                        <h3><%= list.get(i).getName() %></h3>
+                        <p>Description: <%= list.get(i).getDescription() %> </p>
+                        <p>Start Date: <%= list.get(i).getStartDate() %> </p>
+                        <p>End Date: <%= list.get(i).getEndDate() %> </p>
+                        <p>Creation Date: <%= list.get(i).getCreationDate() %> </p>
+                        <p>Place: <%= list.get(i).getPlace() %> </p>
+                        <form ACTION="/doitsimple/delete_todo_item" method="get">
+                            <input type="hidden" name="did" id="did" value="" + <%=list.get(i).getId()%>>
+                            <input class="ui-btn" data-theme="" type="submit" value="Delete!" data-icon="delete">
+                        </form>
+                        <form ACTION="/doitsimple/update_attempt" method="get">
+                            <input type="hidden" name="did" id="uid" value="" + <%=list.get(i).getId()%>>
+                            <input class="ui-btn" data-theme="" type="submit" value="Update!" data-icon="back">
+                        </form>
+                        <br/>
+                        <br/>
+                    </div>
+                    <%
+                        }
+                    %> 
