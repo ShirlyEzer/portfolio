@@ -1,4 +1,0 @@
-1. מה מייצגת המחלקה connection proxy ומדוע היא יורשת מ- thread?
-2. האם client descriptor הוא בעצם ה- client side?
-3. איך העברת ההודעות, התקשורת בין ה- clients מתבצעת?
-4. מה מייצגת המחלקה message board?
